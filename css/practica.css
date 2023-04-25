@@ -1,0 +1,33 @@
+body{
+    /* Trae un color de fondo */
+    background-color: #e7c7ff;
+    /* Background image trae una imagen de fondo */
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-acuarela-pintada-mano-forma-cielo-nubes_24972-1095.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+    
+    h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #22ff00;
+    }
+    
+    .parrafo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fb00ff;
+    }
+    /* No se suelen utilizar ID en el desarrollo */
+    #parrafo-unico{
+    font-size: 20px;
+    }
+    
+    .contenedor-fondo{
+    background-color: #f6ff00;
+    font-size: 24px;
+    color: #ff0000;
+    }
+    
+    .parrafo-fondo{
+    background-color: #1500ff;
+    }
